@@ -6,7 +6,7 @@
 -- Bağımlılıklar klasörün içinde değildir lütfen önce [npm install] komutunu çalıştırın.\
 -- Önce server dosyası [nodemon server.js] ile çalıştırılmalıdır.\
 -- Ardından [npm start] ile app.js dosyası çalıştırılmalıdır.\
--- http://localhost:3000 uygulama çalışır hale gelicektir.\
+-- http://localhost:3000 uygulama çalışır hale gelicektir.
 
 --Kerim Öztürk
 
