@@ -1,0 +1,31 @@
+.h1{
+    margin: 50px auto;
+    text-align: center;
+}
+
+.table {
+    border-spacing: 0;
+    font-size: 18px;
+    font-weight: normal;
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: 50px auto;
+}
+
+
+
+.th {
+    text-align: left;
+    padding: 20px;
+    padding-right: 10px;
+    white-space: nowrap;
+    border: 1px solid;
+}
+
+.td {
+    text-align: right;
+    padding: 20px;
+    padding-right: 10px;
+    white-space: wrap;
+    border: 1px solid;
+}
